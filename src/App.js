@@ -133,6 +133,7 @@ function App() {
         />
         <h5>Video suggested in the suggestion list</h5>
       </aside>
+      <h1>This is the update for testing with Git</h1>
     </div>
   );
 }
